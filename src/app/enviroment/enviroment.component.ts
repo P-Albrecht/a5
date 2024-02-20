@@ -13,7 +13,7 @@ export class EnviromentComponent {
      console.log('...........')
   }
 
-  treeTreeViewComponent = [{name: 'aaa'}, {name: 'bbb', children: [{name: 'bbb1'}, {name: 'bbb2'}]}, {name: 'ccc'} ]
+  treeTreeViewComponent = [{name: 'aaa'}, {name: 'bbb', children: [{name: 'bbb1'}, {name: 'bbb2'}]}, {name: 'ccc'}, {name: 'ddd', children: [{name: 'ddd1'}, {name: 'ddd2'}, {name: 'ddd3'}]} ]
 
   nodeSelectEventTreeViewComponent(response: any) {
     console.log(response)
