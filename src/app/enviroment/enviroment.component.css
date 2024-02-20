@@ -1,7 +1,7 @@
 
 .enviroment-container {
   margin: 100px;
-  border: 2px slategray solid;
+  border: 2px rgb(9, 123, 238) solid;
   height: 500px;
   width: 500px;
 }
